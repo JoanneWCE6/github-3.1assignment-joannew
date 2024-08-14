@@ -15,9 +15,9 @@ Git push -> to transfer all commits from local repo to remote repo
 
 Git branch -> list all branches in local repo
 
-Git branch <branch-name> -> to create new branch
+Git branch < branch-name > -> to create new branch
 
-Git checkout <branch name> ->to change branch
+Git checkout < branch name > ->to change branch
 
-Git checkout -b <branch name> to create new branch and switch to that new branch
+Git checkout -b < branch name > to create new branch and switch to that new branch
 
